@@ -1,1 +1,1 @@
-﻿# Algorithm Design (child repo)\n\nThis repository is a locally-initialized git repo created by assistant.
+﻿# 算法设计作业存档
